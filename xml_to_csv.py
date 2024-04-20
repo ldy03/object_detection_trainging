@@ -1,13 +1,6 @@
-"""
-Usage:
-# Create train data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
+' ' 'Modified by Prof. Lim on 2024. 04. 20' ' '
 
-# Create test data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
-"""
 #modifed by Prof. Kim 2024. 03. 22
-#헤헤
 import os
 import glob
 import pandas as pd
